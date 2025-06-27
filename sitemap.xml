@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+        
+    <url>
+     <loc>https://docs.abinit.org/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/guide/abinit/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/guide/aim/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/guide/anaddb/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/guide/cut3d/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/guide/fold2bloch/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/guide/mrgddb/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/guide/mrgscr/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/guide/optic/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/guide/respfn/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/guide/spacegroup/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/features/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Abipy/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/APPA/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Artificial/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/AtomManipulator/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/AtomTypes/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Bader/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Band2eps/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Berry/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/BandOcc/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/BSE/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/ConstrainedPol/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Control/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Coulomb/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/CRPA/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/crystal/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/DFT+U/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/DeltaSCF/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/DensityPotential/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Dev/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/DFPT/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/DMFT/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/EffMass/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/EFG/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Elastic/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/ElPhonInt/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/ElPhonTransport/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/ElecDOS/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/ElecBandStructure/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/FileFormats/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/ForcesStresses/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/FrequencyMeshMBPT/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/GeoConstraints/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/GeoOpt/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Git/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/GSintroduction/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/GW/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/GWls/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Hybrids/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/k-points/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/LDAminushalf/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/LOTF/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/MagField/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/MagMom/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/MolecularDynamics/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/multidtset/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/nonlinear/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Optic/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Output/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/parallelism/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/PAW/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/PIMD/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Planewaves/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Phonons/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/PhononBands/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/PhononWidth/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/PortabilityNonRegression/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/positron/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/printing/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/PseudosPAW/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/q-points/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/RandStopPow/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Recursion/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/RPACorrEn/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/SCFControl/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/SCFAlgorithms/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/SelfEnergy/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/SmartSymm/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/spinpolarisation/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/STM/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Susceptibility/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/TDDFT/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/TDepES/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Temperature/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/TransPath/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/TuningSpeed/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Unfolding/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/UnitCell/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/vdw/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Verification/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Wannier/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/Wavelets/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/xc/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/topics/external_resources/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://docs.abinit.org/variables/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/variables/anaddb/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/variables/optic/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/variables/aim/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/variables/external_parameters/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/variables/varset_stats/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://docs.abinit.org/tutorial/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/tutorial/dmft/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/tutorial/analysis_tools/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/tutorial/fold2bloch/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/tutorial/nuc/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/tutorial/optic/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/tutorial/positron/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/tutorial/source_code/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/tutorial/tddft/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/tutorial/wannier90/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://docs.abinit.org/theory/geometry/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/theory/spherical_harmonics/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/theory/wavefunctions/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/theory/noncollinear/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/theory/pseudopotentials/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/theory/mbt/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/theory/bse/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/theory/documents/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/theory/acknowledgments/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/theory/bibliography/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://docs.abinit.org/developers/abimkdocs/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/developers/markdown/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/developers/testsuite/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/developers/codestats/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/developers/autoconf_examples/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://docs.abinit.org/about/release-notes/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/about/contributing/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.abinit.org/about/license/</loc>
+     <lastmod>2018-07-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+</urlset>
